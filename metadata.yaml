@@ -1,0 +1,38 @@
+_repo: A-Sack-of-Shakings_63559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bullen, Frank Thomas
+    alias: Bullen, Frank T. (Frank Thomas)
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '616'
+    url: http://www.gutenberg.org/2009/agents/616
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Thomas_Bullen
+description: ''
+gutenberg_issued: '2020-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life'
+- !lcc 'PR'
+- !lcsh 'Ocean'
+- !lcsh 'English essays'
+- GITenberg
+tableOfContents: The orphan -- A porpoise myth -- Cats on board ship -- The old East
+  Indiaman -- The floor of the sea -- Shakespeare and the sea -- The skipper of the
+  "Amulet" -- Among the Enchanted Isles -- Sociable fish -- Alligators and mahogany
+  -- Country life on board ship -- "The way of a ship" -- Sea etiquette -- Waves --
+  A battleship of to-day -- Nat's monkey -- Big game at sea -- A sea change -- Last
+  voyage of the "Sarah Jane" -- Sea-superstitions -- Ocean winds -- The sea in the
+  New Testament -- The polity of a battleship -- The privacy of the sea -- The voices
+  of the sea -- The calling of Captain Ramirez -- Marathon of the seals -- Ocean currents
+  -- The undying romance of the sea -- Sailors' pets -- The survivors -- Beneath the
+  surface -- By way of amends -- The mystery of the "Solander" -- Our amphibious army.
+title: A Sack of Shakings
+url: http://www.gutenberg.org/ebooks/63559
